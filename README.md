@@ -1,13 +1,10 @@
 # 1kmRFID
 Long range Quantum RFID with tunnel diodes
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Long Range measurements data analysis
-% with RFID quantum tunneling tag (QTT).
-% Data acquisition and processing.
-% Authors: Francesco Amato (f.amato@gatech.edu) and Hakki Mert Torun (htorun3@gatech.edu)
-% Georgia Institute of Technology
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Long Range measurements data analysis with RFID quantum tunneling tag (QTT). Data acquisition and processing. 
+Authors: Francesco Amato (f.amato@gatech.edu) and Hakki Mert Torun (htorun3@gatech.edu) Georgia Institute of Technology
+December 2016
 
 Readme file structure
 1. *The Experimental Setups*
