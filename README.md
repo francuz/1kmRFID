@@ -13,7 +13,7 @@ Readme file structure
 
 
 
-1. *The Experimental Setups*
+1 *The Experimental Setups*
 
 The *.bin data have been acquired during the measured campaign held at the Georgia Institute of Technology during the Fall2016 semester.
 
